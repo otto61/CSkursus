@@ -1,0 +1,2 @@
+# CSkursus
+kursus i CS
